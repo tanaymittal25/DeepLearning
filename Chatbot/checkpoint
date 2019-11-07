@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tanaymittal/T/Projects/Chatbot/model.tflearn"
+all_model_checkpoint_paths: "/home/tanaymittal/T/Projects/Chatbot/model.tflearn"
